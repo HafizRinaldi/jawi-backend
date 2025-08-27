@@ -1,16 +1,22 @@
-# Use a Python base image
-FROM python:3.10-slim
+# Gunakan base image Python yang ringan
+FROM python:3.9-slim
 
-# Set the working directory inside the container
+# Tetapkan direktori kerja di dalam kontainer
 WORKDIR /app
 
-# Copy the requirements file and install dependencies
+# Salin file requirements terlebih dahulu untuk caching yang lebih baik
 COPY requirements.txt .
+
+# Instal semua library yang dibutuhkan
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy all project files into the container
+# Salin semua file dari folder backend Anda ke dalam kontainer
+# Ini termasuk app.py, jawi_knowledge.json, jawi_index.faiss, dll.
 COPY . .
 
-# Run your Python script
-# Replace `ingest.py` with the name of your script
-CMD ["python", "app.py"]
+# Beritahu Docker port mana yang akan diekspos oleh aplikasi
+EXPOSE 8080
+
+# Perintah untuk menjalankan aplikasi menggunakan Gunicorn
+# Back4App biasanya menggunakan port 8080
+CMD ["gunicorn", "--bind", "0.0.0.0:8080", "app:app"]
