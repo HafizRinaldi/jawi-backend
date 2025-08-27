@@ -1,0 +1,203 @@
+[
+  {
+    "type": "topik_umum",
+    "topik": "Definisi Aksara Jawi",
+    "konten": "Aksara Jawi adalah varian dari aksara Arab yang terdiri dari 35 karakter. Ini mencakup 29 karakter asli Arab ditambah 6 karakter tambahan yang diciptakan untuk mengakomodasi bunyi dalam bahasa Melayu. Aksara Jawi ditulis dari kanan ke kiri dan merupakan salah satu sistem tulisan tertua di Nusantara."
+  },
+  {
+    "type": "topik_umum",
+    "topik": "Sejarah Singkat Aksara Jawi",
+    "konten": "Aksara Jawi berkembang bersamaan dengan kedatangan Islam di Nusantara sekitar abad ke-13. Bukti tertua penggunaannya ditemukan pada Prasasti Terengganu yang bertanggal 1303 M. Tulisan ini mencapai puncak kejayaannya dari abad ke-17 hingga awal abad ke-20, digunakan dalam administrasi kerajaan, sastra, dan pendidikan sebelum perannya digantikan oleh tulisan Rumi (Latin)."
+  },
+  {
+    "type": "topik_umum",
+    "topik": "Kaidah Penulisan: Aturan Sambung",
+    "konten": "Sebagian besar huruf Jawi dapat disambung di awal, tengah, dan akhir kata. Namun, ada beberapa huruf yang tidak bisa disambung dengan huruf setelahnya, yaitu Alif (ا), Wau (و), Va (ۏ), Dal (د), Zal (ذ), Ra (ر), dan Zai (ز). Setelah huruf-huruf ini, kata akan 'terputus' dan huruf berikutnya ditulis dalam bentuk tunggal."
+  },
+  {
+    "type": "topik_umum",
+    "topik": "Kaidah Penulisan: Sistem Vokal",
+    "konten": "Dalam tulisan Jawi, vokal seringkali dilambangkan oleh 'huruf saksi'. Huruf Alif (ا) digunakan untuk vokal 'a', huruf Wau (و) untuk vokal 'u' dan 'o', dan huruf Ya (ي) untuk vokal 'i' dan 'e'. Penggunaan huruf saksi ini memiliki aturan yang cukup kompleks."
+  },
+  {
+    "type": "topik_umum",
+    "topik": "Huruf Tambahan Khas Jawi",
+    "konten": "Terdapat 6 huruf tambahan yang diciptakan untuk mengakomodasi bunyi bahasa Melayu yang tidak ada dalam Bahasa Arab. Huruf-huruf tersebut adalah Ca (چ), Nga (ڠ), Pa (ڤ), Ga (ݢ), Va (ۏ), dan Nya (ڽ). Keenam huruf ini memiliki berbagai bentuk penulisan tergantung posisinya di dalam kata."
+  },
+  {
+    "type": "huruf",
+    "nama": "Ca Terpisah",
+    "karakter": "چ",
+    "info": "Bentuk terpisah (isolated) dari huruf Ca (چ). Ini adalah salah satu dari 6 huruf tambahan Jawi yang digunakan untuk bunyi 'c', seperti pada kata 'cahaya'.",
+    "contoh_latin": "cahaya",
+    "contoh_jawi": "چهاي"
+  },
+  {
+    "type": "huruf",
+    "nama": "Ca Terhubung Di Awal",
+    "karakter": "چـ",
+    "info": "Bentuk sambung di awal (start) dari huruf Ca (چ). Contoh penggunaannya pada kata 'cerita'.",
+    "contoh_latin": "cerita",
+    "contoh_jawi": "چريتا"
+  },
+  {
+    "type": "huruf",
+    "nama": "Ca Terhubung Di Tengah",
+    "karakter": "ـچـ",
+    "info": "Bentuk sambung di tengah (middle) dari huruf Ca (چ). Contoh penggunaannya pada kata 'baca'.",
+    "contoh_latin": "baca",
+    "contoh_jawi": "باچ"
+  },
+  {
+    "type": "huruf",
+    "nama": "Ca Terhubung Di Akhir",
+    "karakter": "ـچ",
+    "info": "Bentuk sambung di akhir (end) dari huruf Ca (چ). Contoh penggunaannya pada kata 'kaca'.",
+    "contoh_latin": "kaca",
+    "contoh_jawi": "كاچ"
+  },
+  {
+    "type": "huruf",
+    "nama": "Ga Terpisah",
+    "karakter": "ݢ",
+    "info": "Bentuk terpisah (isolated) dari huruf Ga (ݢ). Ini adalah salah satu dari 6 huruf tambahan Jawi yang digunakan untuk bunyi 'g', seperti pada kata 'guli'.",
+    "contoh_latin": "guli",
+    "contoh_jawi": "ݢولي"
+  },
+  {
+    "type": "huruf",
+    "nama": "Ga Terhubung Di Awal",
+    "karakter": "ݢـ",
+    "info": "Bentuk sambung di awal (start) dari huruf Ga (ݢ). Contoh penggunaannya pada kata 'gajah'.",
+    "contoh_latin": "gajah",
+    "contoh_jawi": "ݢاجه"
+  },
+  {
+    "type": "huruf",
+    "nama": "Ga Terhubung Di Tengah",
+    "karakter": "ـݢـ",
+    "info": "Bentuk sambung di tengah (middle) dari huruf Ga (ݢ). Contoh penggunaannya pada kata 'tiga'.",
+    "contoh_latin": "tiga",
+    "contoh_jawi": "تيݢا"
+  },
+  {
+    "type": "huruf",
+    "nama": "Ga Terhubung Di Akhir",
+    "karakter": "ـݢ",
+    "info": "Bentuk sambung di akhir (end) dari huruf Ga (ݢ). Contoh penggunaannya pada kata 'beg'.",
+    "contoh_latin": "beg",
+    "contoh_jawi": "بيݢ"
+  },
+  {
+    "type": "huruf",
+    "nama": "Nga Terpisah",
+    "karakter": "ڠ",
+    "info": "Bentuk terpisah (isolated) dari huruf Nga (ڠ). Ini adalah salah satu dari 6 huruf tambahan Jawi yang digunakan untuk bunyi 'ng', seperti pada kata 'nganga'.",
+    "contoh_latin": "nganga",
+    "contoh_jawi": "ڠاڠا"
+  },
+  {
+    "type": "huruf",
+    "nama": "Nga Terhubung Di Awal",
+    "karakter": "ڠـ",
+    "info": "Bentuk sambung di awal (start) dari huruf Nga (ڠ). Contoh penggunaannya pada kata 'ngaji'.",
+    "contoh_latin": "ngaji",
+    "contoh_jawi": "ڠاجي"
+  },
+  {
+    "type": "huruf",
+    "nama": "Nga Terhubung Di Tengah",
+    "karakter": "ـڠـ",
+    "info": "Bentuk sambung di tengah (middle) dari huruf Nga (ڠ). Contoh penggunaannya pada kata 'pangan'.",
+    "contoh_latin": "pangan",
+    "contoh_jawi": "ڤاڠن"
+  },
+  {
+    "type": "huruf",
+    "nama": "Nga Terhubung Di Akhir",
+    "karakter": "ـڠ",
+    "info": "Bentuk sambung di akhir (end) dari huruf Nga (ڠ). Contoh penggunaannya pada kata 'senang'.",
+    "contoh_latin": "senang",
+    "contoh_jawi": "سنڠ"
+  },
+  {
+    "type": "huruf",
+    "nama": "Nya Terpisah",
+    "karakter": "ڽ",
+    "info": "Bentuk terpisah (isolated) dari huruf Nya (ڽ). Ini adalah salah satu dari 6 huruf tambahan Jawi yang digunakan untuk bunyi 'ny', seperti pada kata 'nyanyi'.",
+    "contoh_latin": "nyanyi",
+    "contoh_jawi": "ڽاڽي"
+  },
+  {
+    "type": "huruf",
+    "nama": "Nya Terhubung Di Awal",
+    "karakter": "ڽـ",
+    "info": "Bentuk sambung di awal (start) dari huruf Nya (ڽ). Contoh penggunaannya pada kata 'nyamuk'.",
+    "contoh_latin": "nyamuk",
+    "contoh_jawi": "ڽاموق"
+  },
+  {
+    "type": "huruf",
+    "nama": "Nya Terhubung Di Tengah",
+    "karakter": "ـڽـ",
+    "info": "Bentuk sambung di tengah (middle) dari huruf Nya (ڽ). Contoh penggunaannya pada kata 'banyak'.",
+    "contoh_latin": "banyak",
+    "contoh_jawi": "باڽق"
+  },
+  {
+    "type": "huruf",
+    "nama": "Nya Terhubung Di Akhir",
+    "karakter": "ـڽ",
+    "info": "Bentuk sambung di akhir (end) dari huruf Nya (ڽ). Contoh penggunaannya pada kata 'sunyi'.",
+    "contoh_latin": "sunyi",
+    "contoh_jawi": "سوڽي"
+  },
+  {
+    "type": "huruf",
+    "nama": "Pa Terpisah",
+    "karakter": "ڤ",
+    "info": "Bentuk terpisah (isolated) dari huruf Pa (ڤ). Ini adalah salah satu dari 6 huruf tambahan Jawi yang digunakan untuk bunyi 'p', seperti pada kata 'pasu'.",
+    "contoh_latin": "pasu",
+    "contoh_jawi": "ڤاسو"
+  },
+  {
+    "type": "huruf",
+    "nama": "Pa Terhubung Di Awal",
+    "karakter": "ڤـ",
+    "info": "Bentuk sambung di awal (start) dari huruf Pa (ڤ). Contoh penggunaannya pada kata 'pagi'.",
+    "contoh_latin": "pagi",
+    "contoh_jawi": "ڤاݢي"
+  },
+  {
+    "type": "huruf",
+    "nama": "Pa Terhubung Di Tengah",
+    "karakter": "ـڤـ",
+    "info": "Bentuk sambung di tengah (middle) dari huruf Pa (ڤ). Contoh penggunaannya pada kata 'sapu'.",
+    "contoh_latin": "sapu",
+    "contoh_jawi": "ساڤو"
+  },
+  {
+    "type": "huruf",
+    "nama": "Pa Terhubung Di Akhir",
+    "karakter": "ـڤ",
+    "info": "Bentuk sambung di akhir (end) dari huruf Pa (ڤ). Contoh penggunaannya pada kata 'atap'.",
+    "contoh_latin": "atap",
+    "contoh_jawi": "اتڤ"
+  },
+  {
+    "type": "huruf",
+    "nama": "Va Terpisah",
+    "karakter": "ۏ",
+    "info": "Bentuk terpisah (isolated) dari huruf Va (ۏ). Ini adalah salah satu dari 6 huruf tambahan Jawi yang digunakan untuk bunyi 'v', seperti pada kata serapan 'video'.",
+    "contoh_latin": "video",
+    "contoh_jawi": "ۏيديو"
+  },
+  {
+    "type": "huruf",
+    "nama": "Va Terhubung Di Akhir",
+    "karakter": "ـۏ",
+    "info": "Bentuk sambung di akhir (end) dari huruf Va (ۏ). Karena sifatnya yang tidak dapat disambung dengan huruf setelahnya, bentuk ini hanya muncul di akhir kata, contohnya pada kata serapan seperti 'bravo'.",
+    "contoh_latin": "bravo",
+    "contoh_jawi": "براۏو"
+  }
+]
